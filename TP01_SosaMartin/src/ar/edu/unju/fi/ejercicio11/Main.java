@@ -15,6 +15,7 @@ public class Main {
 			int value = j * i;
 			secuence+=value+" ";
 			i++;
+			
 		}
 		
 		return secuence;
